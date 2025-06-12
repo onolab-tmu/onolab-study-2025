@@ -25,7 +25,7 @@
    2. 2 次正方行列 $A = \begin{bmatrix} a_{11} & a_{12} \\ a_{21} & a_{22} \end{bmatrix}$ に対して，固有値と固有ベクトルを $a_{ij}\quad (i, j = 1, 2)$ の式で表せ．
    3. $N$ 次正方行列 $A$ の固有値を $\lambda$， 固有ベクトルを $\boldsymbol{v}$ とする． $A ^2$ の固有値が $\lambda ^2$ となることを示せ．
 4. (**対称行列**) $N$ 次 **対称行列** $A$ の固有値を $\lambda$， 固有ベクトルを $\boldsymbol{v}$ とする．以下の小問に答えよ．
-   1. $\lambda$ が実数になることを示せ（ヒント: $\boldsymbol{x} ^{\mathsf{H}} \boldsymbol{x} \geq 0$ を示し $\lambda = \lambda ^{\ast}$ を導けばよい）．
+   1. $\lambda$ が実数になることを示せ（ヒント: $\boldsymbol{v} ^{\mathsf{H}} \boldsymbol{v} \geq 0$ を示し $\lambda = \lambda ^{\ast}$ を導けばよい）．
    2. $A$ の異なる固有値に対応する固有ベクトルが直交することを示せ．
    3. $A$ が直交行列により対角化できることを示せ．
 5. (**ランク**) 以下の問いに答えよ．
